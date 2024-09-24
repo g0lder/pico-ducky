@@ -3,5 +3,5 @@ COMMAND SPACE
 DELAY 250
 STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
 DELAY 250
-ENTER
+RETURN
 DELAY 250
