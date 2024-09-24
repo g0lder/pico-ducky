@@ -1,6 +1,5 @@
-REM The next four lines open Notepad in Windows and type "Hello World!"
-GUI r
-STRING notepad
+REM The next four lines open youutbe informationals :)
+COMMAND SPACE
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ENTER
 DELAY 250
-STRING Hello World!
