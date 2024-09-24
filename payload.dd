@@ -1,5 +1,5 @@
 REM The next four lines open youutbe informationals :)
-CHARDELAY 50
+STRINGDELAY 50
 GUI SPACE
 DELAY 400
 STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
