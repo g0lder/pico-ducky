@@ -1,7 +1,8 @@
 REM The next four lines open youutbe informationals :)
+DEFAULTCHARDELAY 50
 COMMAND SPACE
-DELAY 250
+DELAY 400
 STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
-DELAY 250
+DELAY 400
 RETURN
 DELAY 250
